@@ -1,5 +1,5 @@
 # Simple-Operating-System-from-Scratch
-A simple operating system build from scratch using and assembly.
+A simple operating system build from scratch using C and assembly language.
 The code includes a make file that will help you to run this whole program.
 
 <img src="screenshot.png">
