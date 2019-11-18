@@ -2,6 +2,8 @@
 A simple operating system build from scratch using and assembly.
 The code includes a make file that will help you to run this whole program.
 
+<img src="screenshot.png">
+
 ## Requirements
 1.  nasm
 2.  gcc
