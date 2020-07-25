@@ -2,7 +2,10 @@
 A simple operating system build from scratch using C and assembly language.
 The code includes a make file that will help you to run this whole program.
 
-<img src="screenshot.png">
+| ![ScreenShot](screenshot.png) |
+| :--: |
+| *Main window of the mini-operating system* |
+
 
 ## Requirements
 1.  nasm
